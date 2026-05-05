@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# Datos sensibles (tokens de sesión)
+seguro_complementario/metlife_curl.txt
+
+# Output generado
+*.xlsx
+isapre/output.txt
+seguro_complementario/metlife_data/
+
+# Python
+__pycache__/
+*.pyc
