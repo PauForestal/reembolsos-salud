@@ -1,7 +1,5 @@
 # README.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Propósito
 
 Scripts Python para descargar y consolidar datos de reembolsos de salud desde dos fuentes:
