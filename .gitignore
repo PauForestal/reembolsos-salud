@@ -6,7 +6,8 @@ seguro_complementario/metlife_curl.txt
 
 # Output generado
 *.xlsx
-isapre/output.txt
+isapre/archivados/
+output.txt
 seguro_complementario/metlife_data/
 
 # Python
